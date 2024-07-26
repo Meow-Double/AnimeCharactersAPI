@@ -1,0 +1,74 @@
+[
+  {
+    "id": "0",
+    "name": "Gean",
+    "urlPath": "uploads/Genshin/Gean.png",
+    "Rarity": 5,
+    "Weapons": "Sword",
+    "EyeOfGod": "Anemo"
+  },
+  {
+    "id": "0",
+    "name": "Amber",
+    "urlPath": "uploads/Genshin/Amber.png",
+    "Rarity": 4,
+    "Weapons": "Bow",
+    "EyeOfGod": "Piro"
+  },
+  {
+    "id": "0",
+    "name": "Lisa",
+    "urlPath": "uploads/Genshin/Lisa.png",
+    "Rarity": 4,
+    "Weapons": "Catalyst",
+    "EyeOfGod": "Electro"
+  },
+  {
+    "id": "0",
+    "name": "Kaeya",
+    "urlPath": "uploads/Genshin/Kaeya.png",
+    "Rarity": 4,
+    "Weapons": "Sword",
+    "EyeOfGod": "Cryo"
+  },
+  {
+    "id": "0",
+    "name": "Barbara",
+    "urlPath": "uploads/Genshin/Barbara.png",
+    "Rarity": 4,
+    "Weapons": "Catalyst",
+    "EyeOfGod": "Hydro"
+  },
+  {
+    "id": "0",
+    "name": "Diluk",
+    "urlPath": "uploads/Genshin/Diluk.png",
+    "Rarity": 5,
+    "Weapons": "Two-handed sword",
+    "EyeOfGod": "Piro"
+  },
+  {
+    "id": "0",
+    "name": "Bennett",
+    "urlPath": "uploads/Genshin/Bennett.webp",
+    "Rarity": 4,
+    "Weapons": "Sword",
+    "EyeOfGod": "Piro"
+  },
+  {
+    "id": "0",
+    "name": "Beidou",
+    "urlPath": "uploads/Genshin/Beidou.webp",
+    "Rarity": 4,
+    "Weapons": "Two-handed sword",
+    "EyeOfGod": "Electro"
+  },
+  {
+    "id": "0",
+    "name": "Ningguang",
+    "urlPath": "uploads/Genshin/Ningguang.webp",
+    "Rarity": 4,
+    "Weapons": "Catalyst",
+    "EyeOfGod": "Geo"
+  }
+]
